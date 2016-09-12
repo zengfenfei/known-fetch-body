@@ -1,0 +1,9 @@
+{
+  "name": "known-fetch-body",
+  "version": "0.1",
+  "description": "Detect if the type of an argument is supported by the request body of browser fetch api and node-fetch.",
+  "typings": "index.ts",  
+  "dependencies": {
+    "form-data": "^1.0.1"
+  }
+}
